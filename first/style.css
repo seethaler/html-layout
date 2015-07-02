@@ -1,0 +1,26 @@
+html, body {
+    background-color: #d3d3d3;
+}
+
+.header {
+  height: 100px;
+  background-color: gray;
+}
+.child-div {
+  background-color: gray;
+  height: 100px;
+  margin: 0 auto;
+}
+.white-center {
+  background-color: #ffffff;
+  width: 800px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.black-footer {
+  background-color: black;
+  width: 800px;
+  height: 100px;
+  margin: 0 auto;
+}
