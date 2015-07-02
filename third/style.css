@@ -1,0 +1,33 @@
+.header {
+  background-color: gray;
+  height: 100px;
+  padding: 10px;
+}
+
+.littlebox {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  margin: 0px 0px 0px 10px;
+}
+
+.text {
+  padding: 50px;
+  font-family: inherit;
+  font-size: 24px;
+}
+
+.blue {
+  background-color: blue;
+  height: 150px;
+}
+
+.green {
+  background-color: green;
+  height: 150px;
+}
+
+.yellow {
+  background-color: yellow;
+  height: 150px;
+}
